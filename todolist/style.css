@@ -1,0 +1,9 @@
+.toDo {
+    color: coral;
+    margin: 5px;
+}
+
+.done {
+    text-decoration: line-through;
+    color: green;
+}
