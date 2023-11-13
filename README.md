@@ -1,5 +1,5 @@
 # HTML - CSS - Javascript
-- This repository is intended to promote activities and challenges proposed in class by the teacher. <a href="https://github.com/ricardoej">Ricardo Julio<a/>.
+- This repository contains activities and challenges proposed in class by the teacher. <a href="https://github.com/ricardoej">Ricardo Julio<a/>.
 
 ## Technologies
 - <code><img height="30" src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript"/></code>
