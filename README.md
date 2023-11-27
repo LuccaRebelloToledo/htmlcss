@@ -1,4 +1,4 @@
-# HTML - CSS - Javascript ttst
+# HTML - CSS - Javascript
 - This repository contains activities and challenges proposed in class by the teacher. <a href="https://github.com/ricardoej">Ricardo Julio<a/>.
 
 ## Technologies
