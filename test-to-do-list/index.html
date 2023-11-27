@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-do List</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+    <div id="container">
+        <h1>Insert your Tasks</h1>
+        <div id="taskInput">
+            <input class="task" type="text" id="newTask"/>
+            <button onclick="createTask()">Create</button>
+        </div>
+        <div class="tasks">
+            <h1>To-do</h1>
+            <select id="taskFilter">
+                <option value="all">All</option>
+                <option value="pending">Pending</option>
+                <option value="finished">Finished</option>
+            </select>
+            <ul id="toDoList">
+                <!-- <li> </li> -->
+            </ul>
+            <button class="clearTasks" onclick="clearFinishedTasks()">Clear finished tasks</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
